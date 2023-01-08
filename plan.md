@@ -10,36 +10,59 @@ General goals:
 - Learn a new framework - SvelteKit
 - Build tools for personal use: notes, calendar, streak tracking
 
-## Difficulty scale
+## Estimation scale
 
-1, 3, 5, 8, 13, 21, 34 
+> 1, 3, 5, 8, 13, 21, 34 
+
+Each plan item will have the scale assigned as `{scale value}`
+
+eg. Notes CLI App [Python] {3}
+
 
 # Plan
 
 1-3
 - Notes CLI App [Python] {3}
-4-7
-- CDK template for creating EC2 spot instances {3}
-8-16
-- Calendar app with SvelteKit and AWS {8}
-17-30
-- File sharing app using AWS {13}
-31-44
-- Url Shortner with CDK templating on AWS {13}
-45-53
-- DynamoDB monitoring Slack bot {8}
-54-62
-- App: Web WYSIWYG Markdown editor to gantt chart or diagram using Mermaid script {8}
-63-76
-- Login and profile rendering using Cognito and AppSync - CDK template {13}
-76-84 
-- Combination project with CDK {8}
-85-93
-- EC2 monitoring with Grafana {8}
-94-99
-- Open-source image tiling React component {5}
 
-# Backup Ideas
+4-7
+- CDK template for creating EC2 spot instances [Typescript] {3}
+
+8-16
+- Calendar app with SvelteKit and AWS [Typescript] {8}
+
+17-30
+- File sharing app using AWS [Typescript] {13}
+
+31-44
+- Url Shortner with CDK templating on AWS [Typescript] {13}
+
+45-53
+- DynamoDB monitoring Slack bot [Typescript] {8}
+
+54-62
+- App: Web WYSIWYG Markdown editor to gantt chart or diagram using Mermaid script [Typescript] {8}
+
+63-76
+- Login and profile rendering using Cognito and AppSync - CDK template [Javascript] {13}
+
+76-84 
+- Combination project with CDK [Typescript] {8}
+
+85-93
+- EC2 monitoring with Grafana [Typescript || Python] {8}
+
+94-99
+- Open-source image tiling React component [Javascript] {5}
+
+# Idea backlog
+
+I will use these ideas if:
+- I get bored with the existing plan
+- The current plan moves faster than expected
+- The current plan is taking too long and I need a break
+
+## Backlog
+
 - Self-hosted simple FigJam clone built with React and Recoil
 - OpenFass Kubernetes deployment
 - Design new blog post layout focused on legibility
