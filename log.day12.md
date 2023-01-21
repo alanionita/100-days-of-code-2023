@@ -2,7 +2,7 @@ Goal: Build a terminal app to manage a large collection of text notes [Python]
 
 12/100 - 100 Days Of Code
 
-**Day 12 Log: 18/01/2023**
+**Day 12 Log: 19/01/2023**
 
 **Today's Progress**:
 - Refactored commands to pass in the new notes_store context. Impact on cmd/read and cmd/create
