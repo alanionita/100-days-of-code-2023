@@ -2,7 +2,7 @@ Goal: Build a terminal app to manage a large collection of text notes [Python]
 
 19/100 - 100 Days Of Code
 
-**Day 18 Log: 29/01/2023**
+**Day 19 Log: 29/01/2023**
 
 **Today's Progress**:
 - Refactored all the methods and commands that depended on the previous changes the context method signatures
